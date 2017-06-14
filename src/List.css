@@ -1,0 +1,19 @@
+.container {
+  border: 1px solid black;
+  //margin-bottom: 5px;
+  overflow: hidden;
+}
+
+img {
+  float: left;
+  width: 60px;
+  height: 60px;
+  vertical-align: center;
+}
+
+a{
+    text-decoration: none;
+}
+a:link{
+    color: black;
+}
